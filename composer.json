@@ -1,10 +1,12 @@
 {
-    "name": "socialiteproviders/naver",
-    "description": "Naver OAuth2 Provider for Laravel Socialite",
+    "name": "twinkleroot/social_naver",
+    "description": "edit Naver OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Doojin So",
-        "email": "sodoojin@gmail.com"
+      "name": "Twinkle Ahn",
+      "email": "lalala13@sir.kr",
+      "homepage": "http://laonboard.com",
+      "role": "Developer"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
